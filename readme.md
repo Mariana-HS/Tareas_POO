@@ -1,12 +1,12 @@
-# ✏️ Trabajos de la Materia de Programación Orientada a Objetos (POO)
+# ✏️ Tarea numero 5
 
-Estimado(a) profesor(a),
 
-En esta carpeta estaré subiendo las **tareas y trabajos** correspondientes a la materia de **Programación Orientada a Objetos (POO)**. Cada archivo estará organizado y nombrado según los temas y ejercicios trabajados en clase para facilitar su revisión.
 
-Si hay alguna observación o corrección que considere necesaria, quedo a su disposición para cualquier aclaración.
+En esta tarea se realizo el código de tres ejercicios solicitados en teams, empleados, rectangulo y calculadora de impuestos, subi cada archivo por separado para mayor comprensión 
+En cada archivo esta especificado cual es la clase main y cual es la clase elaborada.
 
----
+Si hay alguna observación, duda o corrección que considere necesaria, quedo a su disposición para cualquier aclaración.
+
 
 Atentamente,  
 **Mariana Herrejon Silva**       
