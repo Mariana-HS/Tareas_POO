@@ -1,4 +1,8 @@
+import java.util.Scanner;
+
 public class Producto {
+
+    Scanner scanner = new Scanner(System.in);
     private String nombre;
     private Double precio;
     private int stock;
@@ -29,7 +33,7 @@ public class Producto {
             System.out.println("La cantidad debe ser mayor que 0");
         }
         else if (cantidad > stock){
-            System.out.println("La cantidad a reducir no puede ser mayor que "+ stock+ "que es el stock actual.");
+            System.out.println("La cantidad a reducir no puede ser mayor que "+ stock+ " que es el stock actual.");
         }
         else {
              stock = stock - cantidad;
@@ -41,35 +45,38 @@ public class Producto {
         return nombre;
     }
     public void setNombre(String nombre) {
-        if (nombre == null) {
-            System.out.println("El nombre no puede ser nulo");
-        }
-        else{
-            this.nombre = nombre;
-        }
+        do {
+            System.out.print("Ingresa el nombre del producto: ");
+            nombre = scanner.nextLine();
+            if (nombre == null || nombre.isEmpty()) {
+                System.out.println("El nombre no puede estar vacío. Intente nuevamente.");
+            }
+        } while (nombre == null || nombre.isEmpty());
     }
 
     public Double getPrecio() {
         return precio;
     }
     public void setPrecio(Double precio) {
-        if (precio < 0) {
-            System.out.println("El precio no puede ser negativo");
-        }
-        else{
-            this.precio = precio;
-        }
+        do {
+            System.out.print("Ingresa el precio del producto: ");
+            precio = scanner.nextDouble();
+            if (precio < 0) {
+                System.out.println("El precio no puede ser negativo, lo sentimos intente de nuevo.");
+            }
+        } while (precio < 0);
     }
 
     public int getStock() {
         return stock;
     }
     public void setStock(int stock) {
-        if (stock < 0) {
-            System.out.println("El stock no puede ser negativo");
-        }
-        else{
-            this.stock = stock;
-        }
+        do {
+            System.out.print("Ingresa el stock del producto: ");
+            stock = scanner.nextInt();
+            if (stock < 0) {
+                System.out.println("El stock no puede ser negativo. Intente nuevamente.");
+            }
+        } while (stock < 0);
     }
 }
