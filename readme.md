@@ -1,12 +1,9 @@
-# ✏️ Trabajos de la Materia de Programación Orientada a Objetos (POO)
+# ✏️ Tarea 8 Unidad 2
 
-Estimado(a) profesor(a),
 
-En esta carpeta estaré subiendo las **tareas y trabajos** correspondientes a la materia de **Programación Orientada a Objetos (POO)**. Cada archivo estará organizado y nombrado según los temas y ejercicios trabajados en clase para facilitar su revisión.
+En esta tarea se realizo el codigo para que el metodo 4 pudiera realizarce correctamente ademas de que se añadio otra opcion para que se pudiera ver la categoria junto con los productos.
 
 Si hay alguna observación o corrección que considere necesaria, quedo a su disposición para cualquier aclaración.
-
----
 
 Atentamente,  
 **Mariana Herrejon Silva**       
