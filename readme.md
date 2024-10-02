@@ -1,12 +1,9 @@
-# ✏️ Trabajos de la Materia de Programación Orientada a Objetos (POO)
+# ✏️ Tarea 12 Unidad 2
 
-Estimado(a) profesor(a),
-
-En esta carpeta estaré subiendo las **tareas y trabajos** correspondientes a la materia de **Programación Orientada a Objetos (POO)**. Cada archivo estará organizado y nombrado según los temas y ejercicios trabajados en clase para facilitar su revisión.
+En esta tarea se agregaron varios metodos y ciclos, entre ellos la validadcion de que la hora de la consulta no fuera anterior a la fecha actual, que el numero de telefono no se repitiera, que el id de medico, paciente y consultorio estubiera registrado antes de hacer una consulta y que el rfc del medico no se repitiera.
 
 Si hay alguna observación o corrección que considere necesaria, quedo a su disposición para cualquier aclaración.
 
----
 
 Atentamente,  
 **Mariana Herrejon Silva**       
