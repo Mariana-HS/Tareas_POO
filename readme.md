@@ -1,12 +1,12 @@
-# ✏️ Trabajos de la Materia de Programación Orientada a Objetos (POO)
+# ✏️ Tarea 1 Unidad 3
 
-Estimado(a) profesor(a),
-
-En esta carpeta estaré subiendo las **tareas y trabajos** correspondientes a la materia de **Programación Orientada a Objetos (POO)**. Cada archivo estará organizado y nombrado según los temas y ejercicios trabajados en clase para facilitar su revisión.
+En esta tarea se creo un nuevo tipo de usuario llamado Administrador, este usuario hereda de la clase Padre llamada Usuario además, contiene datos extra como:
+Sueldo
+RFC
+Años trabajados
 
 Si hay alguna observación o corrección que considere necesaria, quedo a su disposición para cualquier aclaración.
 
----
 
 Atentamente,  
 **Mariana Herrejon Silva**       
