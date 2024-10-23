@@ -1,12 +1,11 @@
-# ✏️ Trabajos de la Materia de Programación Orientada a Objetos (POO)
 
-Estimado(a) profesor(a),
+![bandicam 2024-10-22 23-07-37-269](https://github.com/user-attachments/assets/ff24b6c9-03a7-4186-9e8c-6937a2f6d977)
 
-En esta carpeta estaré subiendo las **tareas y trabajos** correspondientes a la materia de **Programación Orientada a Objetos (POO)**. Cada archivo estará organizado y nombrado según los temas y ejercicios trabajados en clase para facilitar su revisión.
+
+# ✏️ Tarea 4 unidad 3
 
 Si hay alguna observación o corrección que considere necesaria, quedo a su disposición para cualquier aclaración.
 
----
 
 Atentamente,  
 **Mariana Herrejon Silva**       
